@@ -1,0 +1,22 @@
+Administrator@N4J6N576NTMHMBG MINGW64 /d/kyj/gitDemo (master)
+$ ssh-keygen -t rsa -C '378479738@qq.com'
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/Administrator/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/Administrator/.ssh/id_rsa.
+Your public key has been saved in /c/Users/Administrator/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:AOR6yOTS8vydPFFdtwfv+a7qUoY5IXwhNC1B6WZQkrg 378479738@qq.com
+The key's randomart image is:
++---[RSA 2048]----+
+|   .o..=*+       |
+|   ...o.+.o . o  |
+|  . ...+ + o . + |
+| = oE  .B +   . o|
+|o * .  +So +   o.|
+| = .  .   + o  ..|
+|  o    .   +    .|
+|   . o..  .     .|
+|    . +.   oo..o.|
++----[SHA256]-----+
