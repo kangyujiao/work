@@ -4,8 +4,4 @@ new file
 ccccc
 newnewnwenw
 master
-<<<<<<< HEAD
-a
-=======
-a
->>>>>>> a
+no fast forward
