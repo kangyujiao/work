@@ -5,3 +5,4 @@ ccccc
 newnewnwenw
 master
 no fast forward
+fast forward
