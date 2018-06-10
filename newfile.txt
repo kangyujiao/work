@@ -4,4 +4,8 @@ new file
 ccccc
 newnewnwenw
 master
-b
+<<<<<<< HEAD
+a
+=======
+a
+>>>>>>> a
